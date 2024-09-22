@@ -1,0 +1,8 @@
+** Python Libraries Needed **
+Pandas, numpy, matplotlib, seaborn
+
+If not already installed please run 
+!pip install pandas
+!pip install numpy 
+!pip install matplotlib
+!pip install seaborn
